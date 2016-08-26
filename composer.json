@@ -1,0 +1,18 @@
+{
+    "name": "debugteam/bootstrap-colorpicker",
+    "type": "component",
+    "require": {
+        "components/jquery" : ">=1.10",
+        "components/bootstrap": ">=2",
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "img/bootstrap-colorpicker/*.png",
+                "css/bootstrap-colorpicker.min.css",
+		"js/bootstrap-colorpicker.min.js"
+            ]
+        }
+    }
+}
